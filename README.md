@@ -23,7 +23,7 @@ I enjoy solving problems, working on innovative projects, and sharing knowledge 
 - Provides a means through django's admin features to edit & delete the blog posts
 - UI to allow users to apply CRUD functionlaity on blog post
 
-[View Repository](https://github.com/yourusername/project1) | [Live Demo](#)
+[View Repository](https://github.com/StevesaurusReX/my-first-blog) | [Live Demo](#)
 
 
 ## Skills
